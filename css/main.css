@@ -1,0 +1,16 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  font-size: 22px;
+  line-height: 1.8;
+  color:#ff0000;
+  background-color: #0b0d61;
+}
+
+section {
+    border: 5px solid #ff0000;
+    height: 225vh;
+}
+
+.em-tight {
+  letter-spacing: -0.05em;
+}
